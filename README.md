@@ -1,4 +1,4 @@
-# 🛡️ AI Threat Intelligence Dashboard
+# AI Threat Intelligence Dashboard
 
 <div align="center">
 
