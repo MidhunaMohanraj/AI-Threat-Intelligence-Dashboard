@@ -14,7 +14,7 @@ from threat_engine import (
     THREAT_FEEDS, SEVERITY, THREAT_CATEGORIES, MITRE_TACTICS,
     fetch_all_feeds, analyze_threat, generate_briefing,
     ThreatItem, ThreatAnalysis, ThreatBriefing,
-)
+)  
   
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
